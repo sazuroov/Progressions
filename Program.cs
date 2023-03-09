@@ -12,7 +12,7 @@ if (choose == "a")
 
     int step = Convert.ToInt32(Console.ReadLine());
 
-    Console.WriteLine("Введите конечное количество");
+    Console.WriteLine("Введите конечное значение");
 
     int times = Convert.ToInt32(Console.ReadLine());
 
