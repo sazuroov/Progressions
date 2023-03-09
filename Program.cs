@@ -48,30 +48,3 @@ else if (choose == "g")
 
     Console.WriteLine($"Сумма прогрессии {sum}");
 }
-
-
-
-
-/*Console.WriteLine("Введите первое число арифметической прогрессии");
-
-int n = Convert.ToInt32(Console.ReadLine());
-
-Console.WriteLine("Введите шаг арифметической прогрессии");
-
-int step = Convert.ToInt32(Console.ReadLine());
-
-Console.WriteLine("Введите конечное количество");
-
-int times = Convert.ToInt32(Console.ReadLine());
-
-int nextNum = n;
-
-int res = n;
-
-for (int i = 0; i < times - 1; i++)
-{
-    nextNum = nextNum + step;
-    res = res + nextNum;
-}
-
-Console.WriteLine(res);*/
